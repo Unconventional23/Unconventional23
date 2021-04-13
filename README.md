@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Unconventional23
-- 👀 I’m interested in Problem Solving and Python
+- 👀 I’m interested in Problem Solving, Automation scripting, Web scraping and Python
 - 🌱 I’m currently learning cs50
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me email @ kapilansaravanan23@gmail.com
